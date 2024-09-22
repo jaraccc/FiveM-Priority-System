@@ -12,7 +12,7 @@ This Priority System is designed to integrate seamlessly with [JaRacc's FiveM In
 ## Installation
 1. **Download** or **Clone** the repository to your `resources` folder:
    ```bash
-   git clone https://github.com/jaraccc/priority-system-fivem.git
+   git clone https://github.com/jaraccc/FiveM-Priority-System.git
    ```
 2. Add the following line to your `server.cfg` to ensure the resource starts:
     ```bash
